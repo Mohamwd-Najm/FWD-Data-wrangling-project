@@ -1,6 +1,7 @@
-# Data-wrangling-project
+# Doge Rates Project
+## Data-wrangling-project
 
-## Overview
+### Overview
 
 Using the dataset of the tweet archive of Twitter user
 @dog_rates, also known as WeRateDogs. and ably the
